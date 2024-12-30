@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Doctor = () => {
     // Mock data for top doctors
     const topDoctors = [

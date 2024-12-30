@@ -1,4 +1,3 @@
-import React from 'react';
 import Navbar from './Component/Patient/navbar';
 import Homepage from './Component/Patient/homepage';
 import Doctor from './Component/Patient/doctor';
